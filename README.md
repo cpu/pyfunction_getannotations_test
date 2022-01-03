@@ -8,10 +8,10 @@ that can be used to demonstrate the change between versions easily.
 
 1. Ensure you have both python3.10 and python3.9 installed and on your `$PATH`
 3. `make pythonVersion="python3.9"`
-4. `./out`
+4. `./main`
 5. `make clean`
 6. `make pythonVersion="python3.10"`
-7. `./out`
+7. `./main`
 
 If you happen to have a working [Nix][nix] install you can run `nix-shell` to
 have an environment created with both `python3.10` and `python3.9` ready to run
