@@ -1,3 +1,7 @@
+# Archived
+
+This regression was confirmed and fixed upstream w/ https://bugs.python.org/issue46236
+
 # PyFunction_GetAnnotations Test
 
 There seems to be a change in Python 3.10's `PyFunction_GetAnnotations` C API
